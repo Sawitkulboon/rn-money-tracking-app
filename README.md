@@ -1,50 +1,43 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <kbd>
 
-## Get started
+<img width="180" alt="704666002_1735576714098551_1001658807330872154_n" src="https://github.com/user-attachments/assets/5536ef73-620a-4e03-8c51-84598140043d" />
 
-1. Install dependencies
+ </kbd>
 
-   ```bash
-   npm install
-   ```
+  <kbd>
 
-2. Start the app
+<img width="180"  alt="706752489_1528931075273699_8028342819754954232_n" src="https://github.com/user-attachments/assets/42dad543-6ec6-471a-889d-a0c29bbb65f2" />
+  </kbd>
+</p>
 
-   ```bash
-   npx expo start
-   ```
+<p align="center">
+  <kbd>
 
-In the output, you'll find options to open the app in a
+<img width="180"  alt="705419249_1689276705836579_6509297456093029389_n" src="https://github.com/user-attachments/assets/e65f02ab-8198-489d-80f6-8aeea0a85b33" />
+</kbd>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+  <kbd>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
+<img width="180" alt="704763232_2041565173909038_3406537840303702868_n" src="https://github.com/user-attachments/assets/db60185f-a0e9-45ee-9adc-9333b45a371c" />
+ </kbd>
+</p>
 
-```bash
-npm run reset-project
-```
+<p align="center">
+  <kbd>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<img width="180" alt="705698644_1374390487835085_5358606359058315509_n" src="https://github.com/user-attachments/assets/c81ded97-e363-4653-872a-fc610c50e92f" />
 
-## Learn more
+</kbd>
 
-To learn more about developing your project with Expo, look at the following resources:
+  <kbd>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img width="180" alt="704913094_37101803739418429_5888928583549851215_n" src="https://github.com/user-attachments/assets/7c34cc6c-2b1e-4219-b93f-7f69a18c4f8c" />
+ </kbd>
+</p>
